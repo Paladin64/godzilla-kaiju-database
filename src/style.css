@@ -1,0 +1,162 @@
+body {
+  background-color: #111111;
+}
+
+header {
+  margin: 5px;
+  background-color: #00b3fa;
+  border-radius: 10px;
+  padding: 5px 15px;
+}
+
+nav {
+  text-align: center;
+  margin-bottom: 5px;
+  border-bottom: solid #1141d1 4px;
+}
+
+.nav-link {
+  color: #a11111;
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  margin-top: 10px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-bottom: solid #313165 3px;
+}
+
+h3 {
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+h4 {
+  font-size: 20px;
+  border-bottom: solid #1141d1 3px;
+  font-family: "Trebuchet MS", Arial, sans-serif;
+}
+
+h5 {
+  font-size: 20px;
+  font-family: "Trebuchet MS", Arial, sans-serif;
+}
+
+li {
+  font-family: sans-serif;
+}
+
+.kaiju-header {
+  background-color: #00b3fa;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+.kaiju-information {
+  background-color: #00b3fa;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+.kaiju-list {
+  border: solid #111111 2px;
+  padding: 5px;
+  margin: 5px;
+  background-color: #0083d3;
+  border-radius: 10px;
+}
+
+.kaiju-list li {
+  margin-left: 15px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.kaiju-list-link {
+  margin-left: 15px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+.edit-link {
+  padding: 7px 10px;
+  font-size: 0.875rem;
+  line-height: normal;
+  border-radius: 0.2rem;
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+  margin-right: 10px;
+  position: relative;
+  top: 1px;
+}
+
+.edit-link:hover {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.kaiju-size {
+  border: solid #111111 2px;
+  padding: 5px;
+  margin: 5px;
+  background-color: #0083d3;
+  border-radius: 10px;
+}
+
+.kaiju-size li {
+  margin-left: 15px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.kaiju-link {
+  margin: 5px 0;
+}
+
+.input-list {
+  list-style-type: none;
+}
+
+img {
+  width: 500px;
+}
+
+p {
+  background-color: #00b3fa;
+  font-size: 14px;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+label {
+  font-family: "Trebuchet MS", Arial, sans-serif;
+}
+
+button {
+  font-size: 10px;
+}
+
+.submit {
+  font-size: 15px;
+}
+
+footer {
+  margin: 5px;
+  background-color: #00b3fa;
+  border-radius: 10px;
+  padding: 10px 15px 30px 15px;
+}
